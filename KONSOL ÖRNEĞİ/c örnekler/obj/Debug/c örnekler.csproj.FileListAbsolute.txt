@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\bin\Debug\c örnekler.exe.config
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\bin\Debug\c örnekler.exe
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\bin\Debug\c örnekler.pdb
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\obj\Debug\c örnekler.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\obj\Debug\c örnekler.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\obj\Debug\c örnekler.exe
+C:\Users\asus\Desktop\C# UYGULAMALAR\c örnekler\c örnekler\obj\Debug\c örnekler.pdb
